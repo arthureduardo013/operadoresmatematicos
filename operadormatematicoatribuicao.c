@@ -25,5 +25,4 @@ printf("Resultado: %d\n", resultado);
 
 return 0;
 
-
 }
