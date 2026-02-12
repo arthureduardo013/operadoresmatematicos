@@ -10,10 +10,16 @@ int main() {
 
     printf("Entre com o numero 2: ");
     scanf("%d", &numero2);
-
+    //operacao soma
     soma = numero1 + numero2;
+
+    //operacao subtracao
     subtracao = numero1 - numero2;
+
+    //operacao multiplicacao
     multiplicacao = numero1 * numero2;
+    
+    //operacao divisao
     divisao = numero1 / numero2;
 
     printf("A soma é: %d\n", soma);
